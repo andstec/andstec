@@ -16,7 +16,7 @@ En Andes Technologies transformamos procesos con soluciones IT y OT. Impulsamos 
 
 ## 🔧 Proyectos Destacados  
 - [Suministro filtro y reactancias MTE](#) para corregir el control de motores a mas de 250 mts de distancia del variador de velocidad. (20K USD) industria petroquímica
-- [Monitoreo y control]( https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjK4_yPmOaJAxV9VTABHfYnJWQQFnoECCcQAQ&url=https%3A%2F%2Fes.linkedin.com%2Fposts%2Fandes-technologies-sas_integraci%25C3%25B3n-entre-ti-y-iot-activity-7246883960897589253-1rN-&usg=AOvVaw3E3imbMm3il5spFSCKuCCF&opi=89978449) de nivel de gas GLP en tanques estacionarios o domésticos a través de la nube.
+- [Monitoreo y control](https://www.linkedin.com/posts/andstec_integraci%C3%B3n-entre-ti-y-iot-activity-7246883960897589253-XeYN?utm_source=share&utm_medium=member_desktop) de nivel de gas GLP en tanques estacionarios o domésticos a través de la nube.
 ## 🤝 Colaboración  
 Estamos abiertos a colaborar en proyectos innovadores. ¡Conéctate con nosotros!  
 
