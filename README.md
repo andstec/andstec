@@ -1,5 +1,5 @@
-<img src="https://tinypic.host/images/2025/01/10/presentation_andes.png" alt="presentation"/>
-# Andes Technologies
+<img src="https://tinypic.host/images/2025/01/10/presentation_andes.png" alt="presentation"/>  
+# Andes Technologies  
 Soluciones de ingeniería en IT y OT, impulsando tu transformación hacia la Industria 4.0 🚀
 
 ## 📌 ¿Quiénes somos?  
