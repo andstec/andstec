@@ -2,6 +2,8 @@
 
 # Andes Technologies  
 
+compañía de automatización | servicios de ingeniería
+
 Soluciones de ingeniería en IT y OT, impulsando tu transformación hacia la Industria 4.0 🚀
 
 ## 📌 ¿Quiénes somos?  
